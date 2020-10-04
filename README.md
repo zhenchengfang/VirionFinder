@@ -98,7 +98,7 @@ VirionFinder is designed to distinguish the phage virion proteins (PVPs) from th
   Please remember to set the working path of MATLAB to VirionFinder folder before running the programe.
   
 
-### 3. Run PlasTrans over a large file (-b option)
+### 3. Run VirionFinder over a large file (-b option)
 
   If the RAM of your machine is small, or your file is very large, you can you -b option to let the program read the file in block to reduce the memory requirements and speed up the program. For example, if you want to let the program to predict 1000 sequences at a time, please execute:
   
@@ -111,7 +111,7 @@ The default value of -b is 10000.
   
 ## Output
 
-The output of PlasTrans consists of four columns:
+The output of VirionFinder consists of four columns:
 
 Header | Length | Score | Prediction |
 ------ | ------ | ----- | --------------- |
