@@ -117,6 +117,8 @@ Header | Length | Score | Prediction |
 ------ | ------ | ----- | --------------- |
 
 A protein with a higher score is more likely to be a PVP. By default, a protein with a score higher than 0.5 will be predicted as PVP.
+
+
 **Note:**
 (1) The current version of VirionFinder uses “comma-separated values (CSV)” as the format of the output file. Please use “.csv” as the extension of the output file. VirionFinder will automatically add the “.csv” extension to the file name if the output file does not take “.csv” as its extension”.
 (2) The program allows run mutiple tasks in parallel. However, running mutiple same tasks (with the same input file under the same '-b' setting will throw error. 
