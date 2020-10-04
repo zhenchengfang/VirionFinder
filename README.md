@@ -61,7 +61,7 @@ VirionFinder is designed to distinguish the phage virion proteins (PVPs) from th
   **Note:**
   If you find it difficult to install these packages, you may download the Virtual Machine from http://cqb.pku.edu.cn/ZhuLab/PPR_Meta/VM_Bioinfo.vdi.7z, in which we have installed all dependent software. In this way, you only need to copy the VirionFinder folder to the Virture Machine. The manual of PPR-Meta (our previous work) contains a step by step guide about how to install the Virtual Machine (link: http://cqb.pku.edu.cn/ZhuLab/PPR_Meta/Manual.pdf). You can also refer to a brief video guide http://cqb.pku.edu.cn/ZhuLab/PPR_Meta/Video_Guide.mp4 for the Virtual Machine installation.
   
-### 2 Install PlasTrans using git
+### 2 Install VirionFinder using git
   
   Clone VirionFinder package
   
