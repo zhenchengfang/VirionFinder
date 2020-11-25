@@ -13,7 +13,7 @@ VirionFinder: identification of complete and partial phage virion proteins from 
 
 ## Introduction
 
-VirionFinder is designed to distinguish the phage virion proteins (PVPs) from the non-phage virion proteins in the viral metageomic data. It takes a "fasta" file that contains the protein sequences as input and outputs a tabular file with PVP annotation for each sequence. 
+VirionFinder is designed to distinguish the phage virion proteins (PVPs) from the non-phage virion proteins in the viral metageomic data. It takes a "fasta" file that contains the protein sequences as input and outputs a tabular file with PVP annotation for each sequence. VirionFinder can run either on the virtual machine or physical host. For non-computer professionals, we recommend running the virtual machine version of VirionFinder on local PC. In this way, users do not need to install any dependency package. If GPU is available, you can also choose to run the physical host version. This version can automatically speed up with GPU and is more suitable to handle large scale data.
 
 ## Version
 + VirionFinder 1.0 (Tested on Ubuntu 16.04)
