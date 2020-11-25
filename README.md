@@ -57,9 +57,7 @@ VirionFinder is designed to distinguish the phage virion proteins (PVPs) from th
     <MCR_installation_folder>/v94/extern/bin/glnxa64
     
   When running VirionFinder through the MATLAB script, please see https://www.mathworks.com/support/ to install the MATLAB.  
-  
-  **Note:**
-  If you find it difficult to install these packages, you may download the Virtual Machine from http://cqb.pku.edu.cn/ZhuLab/PPR_Meta/VM_Bioinfo.vdi.7z, in which we have installed all dependent software. In this way, you only need to copy the VirionFinder folder to the Virture Machine. The manual of PPR-Meta (our previous work) contains a step by step guide about how to install the Virtual Machine (link: http://cqb.pku.edu.cn/ZhuLab/PPR_Meta/Manual.pdf). You can also refer to a brief video guide http://cqb.pku.edu.cn/ZhuLab/PPR_Meta/Video_Guide.mp4 for the Virtual Machine installation.
+ 
   
 ### 2 Install VirionFinder using git
   
@@ -72,6 +70,8 @@ VirionFinder is designed to distinguish the phage virion proteins (PVPs) from th
     cd VirionFinder
     
   The executable file and all scripts are under the folder
+  
+### 3 If you are non-computer professionals who unfamiliar with the Linux operating system, we recommend using the virtual machine of VirionFinder. In this way, you do not need to install any dependant packages as mentioned above.
 
 ## Usage
 
@@ -108,6 +108,9 @@ VirionFinder is designed to distinguish the phage virion proteins (PVPs) from th
     
 The default value of -b is 10000.
 
+### 4. Virtual machine version
+The installation of the virtual machine is much easier. Please refer to 'Manual.pdf' for a step by step guide with screenshot to see how to install the vertual machine.
+
   
 ## Output
 
@@ -129,5 +132,5 @@ A protein with a higher score is more likely to be a PVP. By default, a protein 
 
 
 # Contact
-Any question, please do not hesitate to contact me: fangzc@pku.edu.cn
+Any question, please do not hesitate to contact me: fangzc@smu.edu.cn
 
