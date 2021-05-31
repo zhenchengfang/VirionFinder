@@ -109,7 +109,7 @@ VirionFinder is designed to distinguish the phage virion proteins (PVPs) from th
 The default value of -b is 10000.
 
 ### 4. Virtual machine version
-The installation of the virtual machine is much easier. Please refer to 'Manual.pdf' for a step by step guide with screenshot to see how to install the vertual machine.
+The installation of the virtual machine is much easier. Please refer to 'Manual.pdf' for a step by step guide with screenshot to see how to install the virtual machine.
 
   
 ## Output
